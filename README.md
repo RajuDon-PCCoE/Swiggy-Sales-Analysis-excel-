@@ -1,5 +1,5 @@
-# <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/130a0c11-3ff8-4d63-9dcd-616c4b0ce2a9" />
- Swiggy Sales Analytics Dashboard
+
+# Swiggy Sales Analytics Dashboard
 
 ## 📌 Problem Statement
 This project focuses on analyzing food delivery platform (Swiggy) data to understand sales performance, customer satisfaction, and ordering behavior.  
