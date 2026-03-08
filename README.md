@@ -1,74 +1,85 @@
-# 📊 Business Requirements Document (BRD): KPI Analysis
+# 🍽️ Swiggy Sales Analytics Dashboard
 
 ## 📌 Problem Statement
+This project focuses on analyzing food delivery platform (Swiggy) data to understand sales performance, customer satisfaction, and ordering behavior.  
+Using data analytics and visualization, the project identifies trends and key business insights that help improve decision-making.
 
-This project focuses on analyzing key performance indicators (KPIs) related to a food ordering platform. The goal is to evaluate business performance, customer satisfaction, and revenue generation through data-driven insights.
+---
 
-## 🎯 Key Performance Indicators (KPIs)
+# 📊 Business Requirements Document (BRD)
+
+## 🔑 Key Performance Indicators (KPIs)
 
 ### 1. Total Sales (₹)
-**Definition:**  
+**Description:**  
 Overall revenue generated from food orders.
 
-**Purpose:**  
-Helps measure the total financial performance of the platform.
-
----
-
 ### 2. Average Rating
-**Definition:**  
+**Description:**  
 Customer satisfaction level across all restaurants.
 
-**Purpose:**  
-Indicates the quality of service and customer experience.
-
----
-
 ### 3. Average Order Value (₹)
-**Definition:**  
-Revenue generated per order.
-
-**Purpose:**  
-Measures how much customers spend on average per transaction.
-
----
+**Description:**  
+Average revenue generated per order.
 
 ### 4. Ratings Count
-**Definition:**  
+**Description:**  
 Total number of customer reviews received.
 
-**Purpose:**  
-Shows customer engagement and feedback volume.
-
----
-
 ### 5. Total Orders
-**Definition:**  
-Total number of food orders received.
-
-**Purpose:**  
-Represents the platform's order volume and demand.
+**Description:**  
+Total number of food orders placed on the platform.
 
 ---
 
-## 📈 Project Objective
-The objective of this project is to analyze these KPIs to:
-- Understand overall business performance
-- Identify trends in customer behavior
-- Measure revenue efficiency
-- Evaluate customer satisfaction
+# 📈 Data Visualizations (Charts)
+
+### 📅 Monthly Sales Trend
+Shows how total sales fluctuate month by month to identify seasonal patterns.
+
+### 📆 Daily Sales Trend
+Highlights variations in orders and revenue across different days of the week.
+
+### 🥗 Total Sales by Food Type (Veg vs Non-Veg)
+Compares revenue contribution based on cuisine category.
+
+### 🗺️ Total Sales by State (Map Visualization)
+Displays the geographical distribution of revenue across states.
+
+### 📊 Quarterly Performance Summary
+Combines sales, ratings, and order metrics to analyze quarterly business performance.
+
+### 🏙️ Top 5 Cities by Sales
+Identifies cities generating the highest revenue.
+
+### 📉 Weekly Trend Analysis
+Monitors weekly sales fluctuations to identify peak and low demand periods.
 
 ---
 
-## 🛠 Tools & Technologies
-- Data Analytics
-- Dashboard Visualization
-- Business Intelligence Tools (e.g., Power BI)
-- Data Processing & Analysis
+# 🎯 Project Objectives
+- Analyze sales performance across different regions and time periods.
+- Measure customer satisfaction using ratings.
+- Understand order behavior and revenue contribution.
+- Identify high-performing cities and states.
+- Track business growth trends using interactive dashboards.
 
 ---
 
-## 📊 Expected Outcomes
-- KPI-driven performance insights
-- Interactive dashboard for monitoring metrics
-- Data-backed decision making for business improvement
+# 🛠️ Tools & Technologies
+- **Power BI** – Dashboard visualization
+- **Python / Streamlit** – Web-based analytics application
+- **Data Analytics & Machine Learning**
+- **Data Visualization**
+
+---
+
+# 📊 Expected Outcomes
+- Interactive analytics dashboard
+- Business insights for revenue growth
+- Improved understanding of customer behavior
+- Identification of high-performing regions
+
+---
+
+# 📂 Project Structure
